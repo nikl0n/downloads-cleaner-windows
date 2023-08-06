@@ -1,0 +1,12 @@
+{
+  "name": "download-cleanup",
+  "version": "1.0.0",
+  "description": "This project contains a simple Node.js script that automatically cleans up the Downloads folder on a Windows system upon startup. The code sorts the files in your Downloads folder based on their file extensions into separate subfolders.",
+  "main": "src/index.js",
+  "author": "nikl0n",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
