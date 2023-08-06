@@ -36,7 +36,7 @@ Run the script manually by entering the following command in the project directo
 node index.js
 ```
 
-To automatically run the script upon Windows startup, create a shortcut to the `index.js` file in the Startup folder. The path to the Startup folder is typically:
+To automatically run the script upon Windows startup, move the `index.bat` file in the Startup folder. The path to the Startup folder is typically:
 
 ```
 C:\Users\YourUsername\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
